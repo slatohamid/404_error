@@ -20,7 +20,6 @@ h1 {
   font-size: 6em;
   margin: 0;
   animation: pulse 2s ease-in-out infinite;
-
 }
 @keyframes pulse {
   0% {
@@ -37,12 +36,16 @@ p {
   font-size: 1.5em;
   margin: 0;
   margin-top: 20px;
-
 }
 
-img{
-    max-width: 30%;
-    height: auto;
+img {
+  max-width: 30%;
+  height: auto;
+}
+
+img:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
 }
 
 a {
@@ -51,7 +54,6 @@ a {
   background-color: #4293ef;
   color: #fff;
   text-decoration: none;
-  m
   margin-top: 20px;
   font-size: 1.2em;
   border-radius: 50px;
