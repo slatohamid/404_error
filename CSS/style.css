@@ -71,8 +71,7 @@ a {
   background-color: #4293ef;
   color: #fff;
   text-decoration: none;
-  margin-top: 20px;
-  font-size: 0.5em;
+  font-size: 0.8em;
   border-radius: 50px;
   transition: background-color 0.3s, color 0.3s;
 }
