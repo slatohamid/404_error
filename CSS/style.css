@@ -67,12 +67,12 @@ img:active {
 
 a {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 50px 10px;
   background-color: #4293ef;
   color: #fff;
   text-decoration: none;
   margin-top: 20px;
-  font-size: 1.2em;
+  font-size: 1em;
   border-radius: 50px;
   transition: background-color 0.3s, color 0.3s;
 }
@@ -84,7 +84,7 @@ a:hover {
 
 @media (max-width: 760px) {
   h1 {
-    font-size: 4em;
+    font-size: 3em;
   }
   p {
     font-size: 1em;
