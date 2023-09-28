@@ -39,7 +39,7 @@ p {
 }
 
 img {
-  max-width: 30%;
+  max-width: 20%;
   height: auto;
   animation: transform 0.7s ease-in-out infinite;
 }
